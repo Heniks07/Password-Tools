@@ -46,6 +46,3 @@ This cracker can test how long it takes(or if it's even possible) to crack you p
  - '+'
  - '~'
  - *manual adding possible*
-
-## Resources
- - The Icon is made by Ivan Abirawa. You could download it at [flaticon.com](https://www.flaticon.com/de/kostenloses-icon/sperren_3183023?related_id=3183023&origin=search#): 
